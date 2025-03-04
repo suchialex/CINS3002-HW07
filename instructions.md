@@ -87,8 +87,7 @@
   
   - Call the file_to_dictionary() after the pass statement
   - Print the returned dictionary
-  - Execute your code to check if the dictionary is printed correctly.
-  - You may use suchi_print
+  - 📜 Execute your code to check if the dictionary is printed correctly, you may use suchi_print
 </details>
 
 ## In validations.py
