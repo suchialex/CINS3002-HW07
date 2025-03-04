@@ -178,7 +178,8 @@ Salary: 45000
     🔑 Code Logic:
   </summary> 
 
-  - Using in operator check if the user provided employee ID is in the dictionary   ⏩ Refer to 9-6c
+  - Convert the user provided employee ID to integer (this might raise exception if user enteres non-numeric values, so use exception handling)
+  - Using in operator check if the employee ID is in the dictionary   ⏩ Refer to 9-6c
   - If yes,
     - print the name, department, email and salary
     - return True
