@@ -39,7 +39,7 @@
   - Create a Python file - main.py
   - Inside the project create a new folder **hw07**
   - Create files dict_functions.py and validations.py
-  - Download employees.pkl https://github.com/suchialex/CINS-HW07/blob/main/employees.pkl
+  - Download employees.pkl https://github.com/suchialex/CINS3002-HW07/blob/main/employees.pkl
   - If needed, download suchi_pretty_print https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py
 </details>
 
