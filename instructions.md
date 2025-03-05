@@ -347,3 +347,17 @@ Salary: 45000
   - Inside a while loop that runs **until user presses 0**, print menu of options, get user's choice and inside the if-elif-else blocks calls the appropriate functions
   - Outside the while loop call dictionary_to_file() function
 </details>
+
+
+## Copy code to replit
+
+<details>
+  <summary>
+    ✅ Copy code to replit
+  </summary>
+  
+  - Copy the contents of validations.py and dict_functions.py to replit under folder hw07
+  - Comment out the existing import statement and code in main function body
+  - Copy and paste the import statement and code from main.py in your PyCharm Project
+  - Submit the URL on Canvas assignment
+</details>
