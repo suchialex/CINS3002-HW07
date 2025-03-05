@@ -137,7 +137,7 @@ Description: We add a new employee to the dictionary and return the modified dic
   - Salary is obtained from a function call to validate_salary()
   - Using all these values create a dictionary named `new_employee` with the  key/value pairs  
   "name" -> Name  
-  "department" -> Department  
+  "dept" -> Department  
   "email" -> Email  
   "salary" -> Salary
 
