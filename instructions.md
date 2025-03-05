@@ -49,7 +49,7 @@
   </summary>
 
   - Copy main.py
-  - Copy the code in validations.py from HW07
+  - Copy the code in validations.py from HW06
   - Change the import statement in main.py to use dict_functions module
 </details>
 
