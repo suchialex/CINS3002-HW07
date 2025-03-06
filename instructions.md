@@ -221,6 +221,7 @@ Salary: 45000
   - if found is true
     - we ask the user to give us a valid name using a call to the validate_first_name and validate_last_name functions
     - Then we find the appropriate dictionary element and modify it  ⏩ Refer to 9-4a
+    - 🚩 Do not forget to change the employee id to integer
     - Print `Name Modified Successfully`
   - Outside if block, return the employees
 </details>
@@ -301,6 +302,7 @@ Salary: 45000
   - Call the function lookup_employee using employees dictionary and the above employee ID as arguments and store returned value in a variable called found
   - if found is true
     - Delete the appropriate dictionary element  ⏩ Refer to 9-6a
+    - 🚩 Do not forget to change the employee id to integer
     - Print `Employee Deleted Successfully`
   - Outside if block, return the employees
 </details>
