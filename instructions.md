@@ -267,6 +267,7 @@ Salary: 45000
     - Get each data element using the loop variable
     - For example, employee name would be  `<loop_variable>.get("name", "-")`
     - Do the same for other data elements, department, salary, email etc
+    - To get the employee id you can use the index() method, like this `employees.index(<loop_ariable>)`
   - Display all these values in a tabular format
   - You may choose column widths and alignment to fit your data
 
