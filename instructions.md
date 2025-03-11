@@ -73,10 +73,10 @@
   - In the function body,
     - Check if there is any data in employees.pkl inside the hw07 folder
       - if no data, then return an empty dictionary
-    - Using context manager, unpickle the contents of the file employees.pkl to a dictionary and store in a variable of your choice
-    ⏩ Refer to 9-11
-    - Print this dictionary and check contents (you may comment it out after)
-    - Return this dictionary
+    - Inside a try block,
+      - Using context manager, unpickle the contents of the file employees.pkl to a dictionary and store in a variable of your choice ⏩ 9-11
+      - Return this dictionary
+    - In the except block, print `File Not Found` and return an empty dictionary
 </details>
 
 
