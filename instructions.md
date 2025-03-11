@@ -71,9 +71,9 @@
   - It accepts no parameters
   - It returns the employees dictionary
   - In the function body,
-    - Check if there is any data in employees.pkl inside the hw07 folder
-      - if no data, then return an empty dictionary
     - Inside a try block,
+      - Check if there is any data in employees.pkl inside the hw07 folder
+      - if no data, then return an empty dictionary
       - Using context manager, unpickle the contents of the file employees.pkl to a dictionary and store in a variable of your choice ⏩ 9-11
       - Return this dictionary
     - In the except block, print `File Not Found` and return an empty dictionary
