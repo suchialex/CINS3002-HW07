@@ -245,6 +245,7 @@ Salary: 45000
   </summary>
 
   - Do the same steps as above for modifying department and salary
+  - 🚩 Do not forget to convert the salary to float
 </details>
 
 
